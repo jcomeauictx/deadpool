@@ -1,5 +1,5 @@
 deadpool is an Ethereum contract that allows
-[betting](https://wikipedia.org/dead%20pool) on the date and time of an
+[betting](https://en.wikipedia.org/wiki/Dead_pool) on the date and time of an
 individual's death.
 
 it can also be used as a form of crowdfunded life insurance, as well as for
